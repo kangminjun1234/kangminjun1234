@@ -3,5 +3,13 @@
 - 🌱 최근에는 **Kubernetes**와 **Docker**에 관심을 가지고 학습 중입니다.
 - 📫 이메일: example@example.com
 
+## 기술 스택
+![Java](https://img.shields.io/badge/java-red?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 주요 프로젝트
+- [**Project 1**](https://github.com/kangminjun1234/minjun_project): 뮤지컬 관람 프로젝트입니다. (사용된 기술: Java, Spring Boot)
+
 
 
