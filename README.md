@@ -11,5 +11,14 @@
 ## 주요 프로젝트
 - [**Project 1**](https://github.com/kangminjun1234/minjun_project): 뮤지컬 관람 프로젝트입니다. (사용된 기술: Java, Spring Boot)
 
-<img src="https://github-readme-stats.vercel.app/api?username=minjunkang1234&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-stats.vercel.app/api?username=kangminjun1234&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangminjun1234&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+
+## 최근 블로그 포스트
+- [블로그 포스트 제목 1](https://example.com/blog1)
+- [블로그 포스트 제목 2](https://example.com/blog2)
+
+## 소셜 링크
+- [LinkedIn](https://www.linkedin.com/in/username/)
+- [Twitter](https://twitter.com/username)
